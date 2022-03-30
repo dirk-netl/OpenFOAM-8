@@ -73,7 +73,7 @@ export WM_ARCH_OPTION=64
 
 #- Precision:
 #    WM_PRECISION_OPTION = SP | DP | LP
-export WM_PRECISION_OPTION=DP
+export WM_PRECISION_OPTION=SP
 
 #- Label size:
 #    WM_LABEL_SIZE = 32 | 64
